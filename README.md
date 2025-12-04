@@ -1,7 +1,30 @@
 # hello-java
 hello-java
 
-## 1. Git clone
+## 1. 프로젝트 생성
+
+1. `VS Code` 실행
+
+2. Ctrl + Shift + p
+
+3. `Spring Initializr: Create a Maven Project` 선택
+
+4. 버전 선택
+
+5. `Java` 선택
+
+6. 이름 : `com.hellojava`
+
+7. `demo`
+
+8. `com.hellojava.demo`
+
+9. `Spring Data JPA` / `Rest Repositories` / `HyperSQL Database` / `Lombok` 선택 후 Enter
+
+
+---
+
+## 2. 프로젝트 실행
 
 1. `git clone` 명령어 실행 실행
 ```bash
@@ -18,9 +41,7 @@ cd hello-java
 code .
 ```
 
-## 2. Maven 프로젝트 실행
-
-1. `Terminal`에서 서버 명령어 실행
+4. `Terminal`에서 서버 명령어 실행
 ```bash
 .\mvnw spring-boot:run 
 ```
