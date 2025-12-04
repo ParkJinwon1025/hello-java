@@ -8,7 +8,12 @@ hello-java
 git clone https://github.com/ParkJinwon1025/hello-java.git
 ```
 
-2. `VS Code` 실행
+2. 디렉토리 이동
+```bash
+cd hello-java
+```
+
+3. `VS Code` 실행
 ``` bash
 code .
 ```
