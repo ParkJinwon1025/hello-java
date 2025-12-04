@@ -27,9 +27,11 @@ code .
 
 ## 3. API 테스트
 
-1. `google chrome' 설치
+1. `google chrome` 설치
 
-2. https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm 해당 링크의 확장 설치
+2. https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm 
+<br>
+해당 링크의 확장 설치
 
 3. 화면 우측 상단의 퍼즐 모양을 클릭하여 확장 실행
 
