@@ -21,7 +21,6 @@ hello-java
 
 9. `Spring Data JPA` / `Rest Repositories` / `HyperSQL Database` / `Lombok` 선택 후 Enter
 
-
 ---
 
 ## 2. 프로젝트 실행
@@ -45,6 +44,8 @@ code .
 ```bash
 .\mvnw spring-boot:run 
 ```
+
+---
 
 ## 3. API 테스트
 
